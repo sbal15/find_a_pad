@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Bathroom 1",
+        "description": "Description for Bathroom 1",
+        "rating": 4,
+        "latitude": -2.01,
+        "longitude": 123.4567
+    },
+    {
+        "name": "Bathroom 2",
+        "description": "Description for Bathroom 2",
+        "rating": 2,
+        "latitude": 2.07,
+        "longitude": -1.02
+    },
+    {
+        "name": "Bathroom 3",
+        "description": "Description for Bathroom 3",
+        "rating": 5,
+        "latitude": 2.07,
+        "longitude": -23.4567
+    },
+    {
+        "name": "Bathroom 4",
+        "description": "Description for Bathroom 4",
+        "rating": 3,
+        "latitude": 0.1234,
+        "longitude": 1.04
+    },
+    {
+        "name": "Bathroom 5",
+        "description": "Description for Bathroom 5",
+        "rating": 1,
+        "latitude": 89.0123,
+        "longitude": -135.7924
+    },
+    {
+        "name": "Bathroom 6",
+        "description": "Description for Bathroom 6",
+        "rating": 4,
+        "latitude": -56.7890,
+        "longitude": 67.8901
+    },
+    {
+        "name": "Bathroom 7",
+        "description": "Description for Bathroom 7",
+        "rating": 2,
+        "latitude": 12.3456,
+        "longitude": -145.6789
+    },
+    {
+        "name": "Bathroom 8",
+        "description": "Description for Bathroom 8",
+        "rating": 5,
+        "latitude": 34.5678,
+        "longitude": 23.4567
+    },
+    {
+        "name": "Bathroom 9",
+        "description": "Description for Bathroom 9",
+        "rating": 3,
+        "latitude": -45.6789,
+        "longitude": -67.8901
+    },
+    {
+        "name": "Bathroom 10",
+        "description": "Description for Bathroom 10",
+        "rating": 1,
+        "latitude": 67.8901,
+        "longitude": -12.3456
+    }
+]
