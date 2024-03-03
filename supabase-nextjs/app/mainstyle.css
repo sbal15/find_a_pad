@@ -1,0 +1,65 @@
+.parallax {
+    /* The image used */
+    background-image: url("images/photo1.jpg");
+  
+    /* Set a specific height */
+    min-height: 1000px;
+    width: 100%; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .parallax2 {
+    /* The image used */
+    background-image: url("images/b&w4.JPG");
+  
+    /* Set a specific height */
+    min-height: 600px;
+
+    width: fill-available; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .text-center {
+    text-align: center;
+  }
+  .button {
+    background-color: #041836;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  h1{
+    font-size:150px;
+    color: #041836;
+  }
+  
+  h2 {
+    font-size:50px;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 20px;
+    color: white;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
